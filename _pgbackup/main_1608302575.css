@@ -1,0 +1,791 @@
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@font-face {
+    font-family: "NotoSansKR-Medium";
+    src: url('https://fonts.animaapp.com/NotoSansKR-Medium') format("opentype");
+}
+
+
+@font-face {
+    font-family: "NotoSansKR-Light";
+    src: url('https://fonts.animaapp.com/NotoSansKR-Light') format("opentype");
+}
+
+
+@font-face {
+    font-family: "NotoSansKR-Regular";
+    src: url('https://fonts.animaapp.com/NotoSansKR-Regular') format("opentype");
+}
+
+
+@font-face {
+    font-family: "NotoSansKR-Bold";
+    src: url('https://fonts.animaapp.com/NotoSansKR-Bold') format("opentype");
+}
+
+* {
+  box-sizing: border-box;
+}
+.border-class-1 {
+  border: 1px solid var(--mountain-mist);
+}
+.main-page-copy {
+  align-items: center;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 4462px;
+  width: 1920px;
+}
+.main-page-copy .ai-hagseub-g-seobiseu {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 38px;
+  letter-spacing: -0.68px;
+  line-height: 24px;
+  margin-top: 9px;
+  min-height: 38px;
+  text-align: left;
+  width: 265px;
+}
+.main-page-copy .ai-one-stop-solution {
+  background-color: transparent;
+  bottom: calc(44.53% - 17px);
+  height: 38px;
+  left: 0px;
+  letter-spacing: -0.68px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 47.45%;
+}
+.main-page-copy .auto-flex-mCninq {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 422px;
+  justify-content: flex-start;
+  margin-top: 100px;
+  min-width: 1050px;
+  width: auto;
+}
+.main-page-copy .auto-flex1-mCninq {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 370px;
+  justify-content: flex-start;
+  margin-top: 100px;
+  min-width: 1050px;
+  width: auto;
+}
+.main-page-copy .auto-flex2-mCninq {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 383px;
+  justify-content: flex-start;
+  margin-top: 100px;
+  min-width: 1050px;
+  width: auto;
+}
+.main-page-copy .auto-flex3-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  min-height: 2335px;
+  width: 1920px;
+}
+.main-page-copy .auto-flex4-l6Jzxa {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 239px;
+  justify-content: flex-start;
+  margin-top: 34px;
+  min-width: 1050px;
+  width: auto;
+}
+.main-page-copy .auto-flex5-9cCs4Z {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 31px;
+  justify-content: flex-start;
+  margin-top: 2px;
+  min-width: 105px;
+  width: auto;
+}
+.main-page-copy .auto-flex6-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-top: 100px;
+  min-height: 1140px;
+  width: 1920px;
+}
+.main-page-copy .auto-flex7-KholN3 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+  height: auto;
+  justify-content: flex-start;
+  margin-left: 30px;
+  margin-top: 2.0px;
+  min-height: 228px;
+  width: 512px;
+}
+.main-page-copy .auto-flex8-C61RwL {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: row;
+  flex-shrink: 0;
+  height: 510px;
+  justify-content: flex-start;
+  margin-left: 2.0px;
+  margin-top: 100px;
+  min-width: 1052px;
+  width: auto;
+}
+.main-page-copy .cloud-9E0exz {
+  background-color: transparent;
+  height: 45px;
+  left: 0.78%;
+  letter-spacing: -0.90px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: calc(13.64% - 6px);
+  white-space: nowrap;
+  width: 16.08%;
+}
+.main-page-copy .cloud-GSvsMN {
+  background-color: transparent;
+  height: auto;
+  left: 1155px;
+  letter-spacing: -0.98px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+.main-page-copy .cloud-service {
+  background-color: transparent;
+  bottom: calc(44.53% - 17px);
+  height: 38px;
+  left: 0px;
+  letter-spacing: -0.68px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 35.69%;
+}
+.main-page-copy .computer-vision {
+  background-color: transparent;
+  bottom: calc(44.53% - 17px);
+  height: 38px;
+  left: 0px;
+  letter-spacing: -0.68px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  width: 35.69%;
+}
+.main-page-copy .copyright-2017-2 {
+  background-color: transparent;
+  color: black;
+  font-family: 'NotoSansKR-Light', Helvetica, Arial, serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  height: 21px;
+  left: 69.33%;
+  letter-spacing: -0.51px;
+  line-height: 14px;
+  position: absolute;
+  text-align: right;
+  top: calc(104.25% - 22px);
+  white-space: nowrap;
+  width: 30.86%;
+}
+.main-page-copy .deiteobauc-iweonsaeob {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: -0.90px;
+  line-height: 32px;
+  margin-top: 12px;
+  min-height: 45px;
+  min-width: 332px;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.main-page-copy .deiteobaucyeo-copy {
+  background-color: transparent;
+  height: auto;
+  left: 1251px;
+  letter-spacing: -0.98px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+.main-page-copy .e-mail-ceosasoft {
+  background-color: transparent;
+  height: 26px;
+  left: 0px;
+  letter-spacing: -0.65px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(105.21% - 27px);
+  white-space: nowrap;
+  width: 51.85%;
+}
+.main-page-copy .fill-1 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 12px;
+  margin-left: 2px;
+  margin-top: 1.0px;
+  width: 7px;
+}
+.main-page-copy .getty-imag-1197646065-FyrxlJ {
+  background-color: white;
+  flex-shrink: 0;
+  height: 422px;
+  margin-left: 28px;
+  width: 510px;
+}
+.main-page-copy .getty-imag-1197646065-mHYtXe {
+  background-color: transparent;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/5fbfdb95771302f4f5b8cc8b/releases/5fc10ac5876fd26947a52fd9/img/untitled-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.main-page-copy .gnb {
+  background-color: white;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.main-page-copy .group-2 {
+  background-color: var(--science-blue-2);
+  border-radius: 38.5px;
+  height: 64px;
+  left: 435px;
+  position: absolute;
+  top: 425px;
+  width: 212px;
+}
+.main-page-copy .group-3 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 349px;
+}
+.main-page-copy .group-4 {
+  background-color: var(--desert-storm);
+  flex-shrink: 0;
+  height: 148px;
+  margin-top: 100px;
+  width: 1920px;
+}
+.main-page-copy .group-5 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.main-page-copy .group-6 {
+  background-color: transparent;
+  height: calc(100.00% - 21px);
+  left: calc(50.00% - 525px);
+  position: relative;
+  top: 11px;
+  width: 1050px;
+}
+.main-page-copy .group-7 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 166px;
+  margin-left: 30px;
+  width: 510px;
+}
+.main-page-copy .group-8 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 166px;
+  margin-top: 1.0px;
+  position: relative;
+  width: 512px;
+}
+.main-page-copy .group-9 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 166px;
+  position: relative;
+  width: 512px;
+}
+.main-page-copy .gucugsarye-GSvsMN {
+  background-color: transparent;
+  height: auto;
+  left: 1407px;
+  letter-spacing: -0.98px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+.main-page-copy .gucugsarye-l6Jzxa {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: -0.90px;
+  line-height: 32px;
+  margin-left: 3.0px;
+  margin-top: 12px;
+  min-height: 45px;
+  min-width: 138px;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+.main-page-copy .gyeonggido-ng-neutiro {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  letter-spacing: -0.65px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.53% - 11px);
+  white-space: nowrap;
+  width: 100.57%;
+}
+.main-page-copy .home {
+  background-color: transparent;
+  height: auto;
+  left: 850px;
+  letter-spacing: -0.98px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+.main-page-copy .jasehi-bogi {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 31px;
+  letter-spacing: -0.56px;
+  line-height: 20px;
+  min-height: 31px;
+  text-align: left;
+  width: 96px;
+}
+.main-page-copy .jeongbu-ju-aeobeun-de {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 83px;
+  letter-spacing: -0.51px;
+  line-height: 18px;
+  margin-top: 3px;
+  min-height: 83px;
+  text-align: left;
+  width: 512px;
+}
+.main-page-copy .junbijungi {
+  background-color: transparent;
+  height: auto;
+  left: 127px;
+  letter-spacing: 0.10px;
+  line-height: 12px;
+  position: absolute;
+  text-align: center;
+  top: 113px;
+  white-space: nowrap;
+  width: auto;
+}
+.main-page-copy .jusaeameoseu {
+  background-color: transparent;
+  color: black;
+  font-family: 'NotoSansKR-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 27px;
+  left: 0px;
+  letter-spacing: -0.65px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(3.68% - 1px);
+  white-space: nowrap;
+  width: 28.21%;
+}
+.main-page-copy .logo-16x16 {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 16px;
+  margin-left: 435px;
+  margin-top: 15px;
+  width: 16px;
+}
+.main-page-copy .logosaeamus {
+  background-color: transparent;
+  height: 42px;
+  left: 435px;
+  position: absolute;
+  top: 29px;
+  width: 198px;
+}
+.main-page-copy .overlap-group-mCninq {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 100px;
+  position: relative;
+  width: 1920px;
+}
+.main-page-copy .overlap-group1-mCninq {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 760px;
+  margin-top: 0px;
+  position: relative;
+  width: 1920px;
+}
+.main-page-copy .overlap-group2-aEXliI {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 239px;
+  position: relative;
+  width: 330px;
+}
+.main-page-copy .overlap-group3-aEXliI {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 239px;
+  margin-left: 30px;
+  position: relative;
+  width: 330px;
+}
+.main-page-copy .overlap-group4-aEXliI {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 239px;
+  margin-left: 30px;
+  position: relative;
+  width: 330px;
+}
+.main-page-copy .rectangle {
+  background-color: var(--catalina-blue);
+  height: 4px;
+  left: 944px;
+  position: absolute;
+  top: 95px;
+  width: 54px;
+}
+.main-page-copy .rectangle-copy-2 {
+  background-color: var(--science-blue);
+  flex-shrink: 0;
+  height: 4px;
+  width: 146px;
+}
+.main-page-copy .rectangle-copy-3 {
+  background-color: var(--science-blue);
+  flex-shrink: 0;
+  height: 4px;
+  width: 58px;
+}
+.main-page-copy .rectangle-g3BQXx {
+  background-color: var(--desert-storm);
+  height: 239px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 330px;
+}
+.main-page-copy .rectangle-gRrlKQ {
+  background-color: var(--science-blue);
+  height: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 35px;
+}
+.main-page-copy .sajin-yeon- {
+  background-color: transparent;
+  height: 56px;
+  left: 0px;
+  letter-spacing: -0.51px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: calc(101.82% - 57px);
+  width: 100.39%;
+}
+.main-page-copy .solution-GSvsMN {
+  background-color: transparent;
+  height: auto;
+  left: 1035px;
+  letter-spacing: -0.98px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+.main-page-copy .solution-u0e2Aq {
+  background-color: transparent;
+  height: 45px;
+  left: 0px;
+  letter-spacing: -0.90px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: calc(13.64% - 6px);
+  white-space: nowrap;
+  width: 22.16%;
+}
+.main-page-copy .tech-DdLUAG {
+  background-color: transparent;
+  height: 45px;
+  left: 0.98%;
+  letter-spacing: -0.90px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: calc(13.64% - 6px);
+  white-space: nowrap;
+  width: 12.16%;
+}
+.main-page-copy .tech-GSvsMN {
+  background-color: transparent;
+  height: auto;
+  left: 952px;
+  letter-spacing: -0.98px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 40px;
+  white-space: nowrap;
+  width: auto;
+}
+.main-page-copy .tel-031-704-7087 {
+  background-color: transparent;
+  bottom: calc(27.08% - 7px);
+  height: 26px;
+  left: 0px;
+  letter-spacing: -0.65px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 40.74%;
+}
+.main-page-copy .weonseutob--seongjang {
+  background-color: transparent;
+  height: 134px;
+  left: 435px;
+  letter-spacing: -1.13px;
+  line-height: 66px;
+  position: absolute;
+  text-align: left;
+  top: 260px;
+  width: 602px;
+}
+.main-page-copy .x1032 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 383px;
+  margin-left: 28px;
+  width: 510px;
+}
+.main-page-copy .x16x16-icon {
+  align-self: flex-start;
+  background-color: transparent;
+  flex-shrink: 0;
+  height: auto;
+  letter-spacing: -0.98px;
+  line-height: 22px;
+  margin-left: 435px;
+  margin-top: 494px;
+  min-height: 32px;
+  min-width: 108px;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+.main-page-copy .x19268 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 370px;
+  width: 510px;
+}
+.main-page-copy .x25552-PRWSHG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.main-page-copy .x25552-SGbyNC {
+  background-color: black;
+  height: 760px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.main-page-copy .x25552-converted {
+  background-color: transparent;
+  height: calc(100.00% + 342px);
+  left: 0px;
+  position: absolute;
+  top: -342px;
+  width: 100%;
+}
+.main-page-copy .x3394892 {
+  background-color: transparent;
+  flex-shrink: 0;
+  height: 510px;
+  width: 510px;
+}
+.main-page-copy .yiroehagi {
+  background-color: transparent;
+  bottom: calc(33.33% - 11px);
+  height: 34px;
+  left: 29.72%;
+  letter-spacing: -0.68px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 45.28%;
+}
+.notosanskr-bold-bold-catalina-blue-22px {
+  color: var(--catalina-blue);
+  font-family: 'NotoSansKR-Bold', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+}
+.notosanskr-bold-bold-eerie-black-32px {
+  color: var(--eerie-black);
+  font-family: 'NotoSansKR-Bold', Helvetica, Arial, serif;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+}
+.notosanskr-light-light-black-12px {
+  color: black;
+  font-family: 'NotoSansKR-Light', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+}
+.notosanskr-light-light-black-18px {
+  color: black;
+  font-family: 'NotoSansKR-Light', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+}
+.notosanskr-medium-medium-eerie-black-24px {
+  color: var(--eerie-black);
+  font-family: 'NotoSansKR-Medium', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.notosanskr-medium-medium-white-24px {
+  color: white;
+  font-family: 'NotoSansKR-Medium', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+}
+.notosanskr-medium-medium-white-40px {
+  color: white;
+  font-family: 'NotoSansKR-Medium', Helvetica, Arial, serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+}
+.notosanskr-regular-normal-black-22px {
+  color: black;
+  font-family: 'NotoSansKR-Regular', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+}
+.notosanskr-regular-normal-chicago-20px {
+  color: var(--chicago);
+  font-family: 'NotoSansKR-Regular', Helvetica, Arial, serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.notosanskr-regular-normal-eerie-black-18px {
+  color: var(--eerie-black);
+  font-family: 'NotoSansKR-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --catalina-blue: rgba(0,48,120,1.0);
+  --chicago: rgba(89,89,89,1.0);
+  --desert-storm: rgba(248,248,248,1.0);
+  --eerie-black: rgba(25,25,25,1.0);
+  --mountain-mist: rgba(151,151,151,1.0);
+  --science-blue: rgba(0,82,205,1.0);
+  --science-blue-2: rgba(0,114,229,1.0);
+}
